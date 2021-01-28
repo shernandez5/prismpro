@@ -1,1 +1,1 @@
-{"_cluster_uuid_": "00057d50-00df-b390-0000-00000000eafd", "version": "5.15.5", "cluster_name": "Prism-Pro-Cluster", "num_nodes": 3, "hypervisor_types": ["kKvm"]}
+{"_cluster_uuid_": "00057d50-00df-b390-0000-00000000eafd", "version": "5.15.3", "cluster_name": "Prism-Pro-Cluster", "num_nodes": 3, "hypervisor_types": ["kKvm"]}
